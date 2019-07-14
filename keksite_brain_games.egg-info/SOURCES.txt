@@ -1,9 +1,14 @@
 setup.py
+brain_games/Makefile
+brain_games/Pipfile
+brain_games/Pipfile.lock
 brain_games/__init__.py
+brain_games/cli.py
 brain_games/scripts/__init__.py
 brain_games/scripts/brain_games.py
 keksite_brain_games.egg-info/PKG-INFO
 keksite_brain_games.egg-info/SOURCES.txt
 keksite_brain_games.egg-info/dependency_links.txt
 keksite_brain_games.egg-info/entry_points.txt
+keksite_brain_games.egg-info/requires.txt
 keksite_brain_games.egg-info/top_level.txt
